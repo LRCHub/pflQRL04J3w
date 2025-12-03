@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ディライト",
+  "base_artist": "豊崎愛生",
+  "createdAt": "2025-12-03T09:27:32.947241Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ディライト",
+      "artist": "豊崎 愛生",
+      "has_synced": false,
+      "path": "select/pl_01_ディライト_豊崎_愛生.txt"
+    }
+  ]
+}
